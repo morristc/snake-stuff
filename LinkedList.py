@@ -115,14 +115,14 @@ class LinkedList:
         self.length -= 1
         return temp
 
-my_linked_list = LinkedList(11)
+# my_linked_list = LinkedList(11)
 
-my_linked_list.append(3)
+# my_linked_list.append(3)
 
-my_linked_list.append(23)
+# my_linked_list.append(23)
 
-my_linked_list.append(7)
+# my_linked_list.append(7)
 
-my_linked_list.remove(2)
+# my_linked_list.remove(2)
 
-my_linked_list.print_list()
+# my_linked_list.print_list()
