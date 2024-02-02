@@ -126,9 +126,9 @@ class DoublyLinkedList:
         self.length -= 1
         return temp
 
-my_doubly_linked_list = DoublyLinkedList(2)
-my_doubly_linked_list.append(3)
-my_doubly_linked_list.prepend(1)
-print(my_doubly_linked_list.remove(1))
-my_doubly_linked_list.print_list()
+# my_doubly_linked_list = DoublyLinkedList(2)
+# my_doubly_linked_list.append(3)
+# my_doubly_linked_list.prepend(1)
+# print(my_doubly_linked_list.remove(1))
+# my_doubly_linked_list.print_list()
 
