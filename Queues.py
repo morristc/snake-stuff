@@ -39,7 +39,7 @@ class Queue:
         self.length -= 1
         return temp
 
-my_queue = Queue(1)
-my_queue.enqueue(2)
-my_queue.dequeue()
-my_queue.print_queue()
+# my_queue = Queue(1)
+# my_queue.enqueue(2)
+# my_queue.dequeue()
+# my_queue.print_queue()
